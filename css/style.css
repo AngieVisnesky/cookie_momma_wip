@@ -4427,7 +4427,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#39C1CD', end
 	}
 #services .text_box,
 #services .text_box h3{
-	text-align:left;
+	text-align:center;
 	}
 #services .tabhead > li{
 	margin-left:-4px;
