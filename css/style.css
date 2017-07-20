@@ -6827,13 +6827,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#39C1CD', end
 	width:100%;
 	overflow:hidden;
 	padding:0 0 0 0;
-	min-height:794px;
 	}
 #contact .mail_content{
 	text-align:center;
 	}
 #contact .mail-section {
-	padding-bottom:130px;
+	padding-bottom:80px;
 }
 #contact .quickemail h2{
 	background:none;
@@ -16529,8 +16528,7 @@ block03j{}
   -o-transition: all 0.2s ease-in-out;
 }
 
-#max {
-	max-width: 100%;
-
+.main-color{
+	color: #39C1CD;
 }
 
