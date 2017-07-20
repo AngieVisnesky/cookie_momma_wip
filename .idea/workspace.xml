@@ -2,53 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7e462d5-bb37-49bc-958c-21cdebaae8f6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blossom.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cookie_mama_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/creative09.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/creative10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/creative11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/creative12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/heading_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/heading_bg01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/peantbutter_balls.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/services01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/services02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/services03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/services04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slide01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slide02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slide03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cookie_mama.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cusotm_sugar_7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/custom_sugar_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/custom_sugar_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/custom_sugar_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/custom_sugar_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/custom_sugar_5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/custom_sugar_6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/half_moon_cookies.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ladylock.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ladylock2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pecan_tarts.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pepperoni_rolls.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/red_velvet_gob.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/snickerdoodles.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/thumbprint.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tray.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,15 +16,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
+            <state relative-caret-position="2448">
               <caret line="144" column="87" lean-forward="false" selection-start-line="144" selection-start-column="87" selection-end-line="144" selection-end-column="87" />
               <folding>
                 <marker date="1500512019467" expanded="true" signature="1111:1165" ph="..." />
                 <marker date="1500512019467" expanded="true" signature="1127:1155" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -115,6 +81,8 @@
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
       </list>
     </option>
   </component>
@@ -126,8 +94,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="27" />
-    <option name="y" value="20" />
+    <option name="x" value="107" />
+    <option name="y" value="121" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -615,15 +583,16 @@
       <option name="presentableId" value="Default" />
       <updated>1500393040471</updated>
       <workItem from="1500393044753" duration="8902000" />
-      <workItem from="1500467678294" duration="10648000" />
+      <workItem from="1500467678294" duration="11459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19550000" />
+    <option name="totallyTimeSpent" value="20361000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="27" y="20" width="1346" height="688" extended-state="0" />
+    <frame x="107" y="121" width="1346" height="688" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -639,7 +608,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2534992" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2534992" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.4968896" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -666,7 +635,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -722,14 +691,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
+        <state relative-caret-position="2448">
           <caret line="144" column="87" lean-forward="false" selection-start-line="144" selection-start-column="87" selection-end-line="144" selection-end-column="87" />
           <folding>
             <marker date="1500512019467" expanded="true" signature="1111:1165" ph="..." />
             <marker date="1500512019467" expanded="true" signature="1127:1155" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
